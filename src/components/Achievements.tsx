@@ -210,6 +210,66 @@ const STATIC_ACHIEVEMENTS: Achievement[] = [
     fileUrl: './images/under/gfg.png',
     fileType: 'image',
     uploadDate: new Date('2026-03-01')
+  },
+  {
+    id: 'static-under-17',
+    userId: 'static',
+    title: 'SIH-26',
+    eventTitle: 'Smart India Hackathon (SIH-26)',
+    description: 'Undergraduate milestone achievement.',
+    organization: 'GEC palamu Code-Hack Club',
+    type: 'Hackathon',
+    fileUrl: './images/under/sih1.png',
+    fileType: 'image',
+    uploadDate: new Date('2026-03-01')
+  },
+  {
+    id: 'static-under-17',
+    userId: 'static',
+    title: 'SIH-26',
+    eventTitle: 'Smart India Hackathon (SIH-26)',
+    description: 'Undergraduate milestone achievement.',
+    organization: 'GEC palamu Code-Hack Club',
+    type: 'Hackathon',
+    fileUrl: './images/under/sih2.png',
+    fileType: 'image',
+    uploadDate: new Date('2026-03-01')
+  },
+  {
+    id: 'static-under-17',
+    userId: 'static',
+    title: 'SIH-26',
+    eventTitle: 'Smart India Hackathon (SIH-26)',
+    description: 'Undergraduate milestone achievement.',
+    organization: 'GEC palamu Code-Hack Club',
+    type: 'Hackathon',
+    fileUrl: './images/under/sih3.png',
+    fileType: 'image',
+    uploadDate: new Date('2026-03-01')
+  },
+  {
+    id: 'static-under-17',
+    userId: 'static',
+    title: 'SIH-26',
+    eventTitle: 'Smart India Hackathon (SIH-26)',
+    description: 'Undergraduate milestone achievement.',
+    organization: 'GEC palamu Code-Hack Club',
+    type: 'Hackathon',
+    fileUrl: './images/under/sih4.png',
+    fileType: 'image',
+    uploadDate: new Date('2026-03-01')
+  },
+  {
+    id: 'static-under-17',
+    userId: 'static',
+    title: 'SIH-26',
+    eventTitle: 'Smart India Hackathon (SIH-26)',
+    description: 'Undergraduate milestone achievement.',
+    organization: 'GEC palamu Code-Hack Club',
+    type: 'Hackathon',
+    fileUrl: './images/under/sih5.png',
+    fileType: 'image',
+    uploadDate: new Date('2026-03-01')
   }
 ];
 
