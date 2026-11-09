@@ -1,0 +1,8 @@
+{
+  "name": "Pawan's Portfolio",
+  "description": "Modern personal portfolio website for Pawan Yadav, featuring dark/light mode, glassmorphism, dynamic content, and Firebase Authentication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
