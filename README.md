@@ -51,7 +51,7 @@
     </td>
     <td width="40%" align="center" style="border: none;">
       <!-- Replace with your actual circular profile image URL -->
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRTRI5G-uol8b56EzFp6OZxaOG4LyLj0k3r9Tw5_3HXw&s" width="250" style="border-radius: 50%; box-shadow: 0 0 20px #7b2cbf;" alt="Profile Picture" />
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRTRI5G-uol8b56EzFp6OZxaOG4LyLj0k3r9Tw5_3HXw&s" width="350" style="border-radius: 50%; box-shadow: 0 0 20px #7b2cbf;" alt="Profile Picture" />
     </td>
   </tr>
 </table>
