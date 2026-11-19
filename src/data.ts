@@ -18,7 +18,7 @@ export const projects = [
     image: "./images/pro/gec.mp4",
     technologies: ["JavaScript", "HTML", "CSS", "GitHub Pages"],
     github: "https://github.com/pawanyadav3714/gecpalamu.git",
-    live: "https://pawanyadav3714.github.io/gecpalamu/",
+    live: "https://gecpalamu.vercel.app,
     video: "https://lnkd.in/p/dhrFzn_q",
     linkedin: "https://www.linkedin.com/posts/pawanyadav3714_hackarena2k26-webdevelopment-reactjs-activity-7461666150708314113-GF1h?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAF8LstUBrJ9nRf6JicALt9khmqfT7tJ-tGU",
     category: "Full Stack"
